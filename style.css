@@ -393,6 +393,255 @@ main section.view3 .feature .media img {
   width: 100%;
   border-radius: 0.7rem;
 }
+main section.view4 {
+  padding: 4rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+}
+main section.view4 .feature {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+}
+main section.view4 .feature .text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  text-align: left;
+  align-items: flex-start;
+  font-family: f1;
+}
+main section.view4 .feature .text hgroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+main section.view4 .feature .text .eyebrow {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin-bottom: 1.25rem;
+}
+main section.view4 .feature .text .text-green {
+  color: #3bc2ad;
+}
+main section.view4 .feature .text h3 {
+  font-size: 2.87rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 0.875rem;
+}
+main section.view4 .feature .text p {
+  font-size: 1.25rem;
+  line-height: 1.4;
+  color: #4f4f4f;
+  max-width: 45ch;
+}
+main section.view4 .feature .text button {
+  padding: 0.7rem 2rem;
+  border: 1px solid #2068d7;
+  border-radius: 10rem;
+  background-color: transparent;
+  color: #2068d7;
+  font-size: 0.875rem;
+  font-weight: 700;
+  font-family: f1;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+main section.view4 .feature .text button:hover {
+  background-color: #2068d7;
+  color: white;
+}
+main section.view4 .feature .media img {
+  width: 100%;
+  border-radius: 0.7rem;
+}
+main section.view5 {
+  padding: 4rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+}
+main section.view5 .feature {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+}
+main section.view5 .feature .text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  text-align: left;
+  align-items: flex-start;
+  font-family: f1;
+}
+main section.view5 .feature .text hgroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+main section.view5 .feature .text .eyebrow {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin-bottom: 1.25rem;
+}
+main section.view5 .feature .text .text-coral {
+  color: #f25d50;
+}
+main section.view5 .feature .text h3 {
+  font-size: 2.87rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 0.875rem;
+}
+main section.view5 .feature .text p {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  color: #4f4f4f;
+  max-width: 45ch;
+}
+main section.view5 .feature .text button {
+  padding: 0.7rem 2rem;
+  border: 1px solid #2068d7;
+  border-radius: 10rem;
+  background-color: transparent;
+  color: #2068d7;
+  font-size: 0.875rem;
+  font-weight: 700;
+  font-family: f1;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+main section.view5 .feature .text button:hover {
+  background-color: #2068d7;
+  color: white;
+}
+main section.view5 .feature .media img {
+  width: 100%;
+}
+main section.view6 {
+  padding: 4rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+}
+main section.view6 .feature {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+}
+main section.view6 .feature .text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  text-align: left;
+  align-items: flex-start;
+  font-family: f1;
+}
+main section.view6 .feature .text hgroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+main section.view6 .feature .text .eyebrow {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin-bottom: 1.25rem;
+}
+main section.view6 .feature .text .text-violet {
+  color: #833ef2;
+}
+main section.view6 .feature .text h3 {
+  font-size: 2.87rem;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 0.875rem;
+}
+main section.view6 .feature .text p {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  color: #4f4f4f;
+  max-width: 45ch;
+}
+main section.view6 .feature .text button {
+  padding: 0.7rem 2rem;
+  border: 1px solid #2068d7;
+  border-radius: 10rem;
+  background-color: transparent;
+  color: #2068d7;
+  font-size: 0.875rem;
+  font-weight: 700;
+  font-family: f1;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+main section.view6 .feature .text button:hover {
+  background-color: #2068d7;
+  color: white;
+}
+main section.view6 .feature .media img {
+  width: 100%;
+}
+main section.view7 {
+  background-image: linear-gradient(90deg, #ff8485, #f9eac6);
+  border-radius: 2.5rem;
+  overflow: hidden;
+  margin: 4rem 2rem;
+}
+main section.view7 .container {
+  padding: 0;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+main section.view7 .text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  font-family: f1;
+  padding: 3rem 3rem 2rem 3rem;
+  margin: 0 auto;
+  max-width: 350px;
+}
+main section.view7 .text .eyebrow {
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin: 0;
+  opacity: 0.9;
+}
+main section.view7 .text h3 {
+  font-size: 2rem;
+  font-weight: 100;
+  line-height: 1.25;
+  letter-spacing: 0.02em;
+  margin-bottom: 2.5rem;
+}
+main section.view7 .text button {
+  background: transparent;
+  border: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+main section.view7 .media {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 1rem 0 1rem;
+}
+main section.view7 .media img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
 @media (min-width: 1024px) {
   main section.view1 {
     padding: 1rem 0rem;
@@ -503,5 +752,166 @@ main section.view3 .feature .media img {
     width: 65%;
     max-width: 650px;
     border-radius: 1rem;
+  }
+  main section.view4 {
+    padding: 4rem 2rem;
+  }
+  main section.view4 .feature {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  main section.view4 .feature .text {
+    flex: 1;
+    max-width: 500px;
+    text-align: left;
+    align-items: flex-start;
+    margin-left: 2rem;
+  }
+  main section.view4 .feature .text h3 {
+    font-size: 3.75rem;
+    line-height: 1.1;
+    margin-bottom: 1rem;
+  }
+  main section.view4 .feature .text p {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    max-width: 100%;
+  }
+  main section.view4 .feature .text button {
+    padding: 0.85rem 2rem;
+    font-size: 0.875rem;
+  }
+  main section.view4 .feature .media {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  main section.view4 .feature .media img {
+    width: 65%;
+    max-width: 650px;
+    border-radius: 1rem;
+  }
+  main section.view5 {
+    padding: 4rem 2rem;
+  }
+  main section.view5 .feature {
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  main section.view5 .feature .text {
+    flex: 1;
+    max-width: 500px;
+    text-align: left;
+    align-items: flex-start;
+    margin-left: 2rem;
+  }
+  main section.view5 .feature .text h3 {
+    font-size: 3.75rem;
+    line-height: 1.1;
+    margin-bottom: 1rem;
+  }
+  main section.view5 .feature .text p {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    max-width: 100%;
+  }
+  main section.view5 .feature .text button {
+    padding: 0.85rem 2rem;
+    font-size: 0.875rem;
+  }
+  main section.view5 .feature .media {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  main section.view5 .feature .media img {
+    width: 65%;
+    max-width: 650px;
+  }
+  main section.view6 {
+    padding: 4rem 2rem;
+  }
+  main section.view6 .feature {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  main section.view6 .feature .text {
+    flex: 1;
+    max-width: 500px;
+    text-align: left;
+    align-items: flex-start;
+    margin-left: 2rem;
+  }
+  main section.view6 .feature .text h3 {
+    font-size: 3.75rem;
+    line-height: 1.1;
+    margin-bottom: 1rem;
+  }
+  main section.view6 .feature .text p {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    max-width: 100%;
+  }
+  main section.view6 .feature .text button {
+    padding: 0.85rem 2rem;
+    font-size: 0.875rem;
+  }
+  main section.view6 .feature .media {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  main section.view6 .feature .media img {
+    width: 65%;
+    max-width: 650px;
+  }
+  main section.view7 {
+    margin: 2rem 20rem;
+  }
+  main section.view7 .container {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4rem 4rem;
+  }
+  main section.view7 .text {
+    margin: 0;
+    max-width: 500px;
+    padding: 0;
+    gap: 1rem;
+  }
+  main section.view7 .text .eyebrow {
+    font-size: 1rem;
+  }
+  main section.view7 .text h3 {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin-bottom: 2rem;
+  }
+  main section.view7 .text button {
+    font-size: 1rem;
+  }
+  main section.view7 .media {
+    padding: 0;
+    justify-content: flex-end;
+    flex-shrink: 0;
+  }
+  main section.view7 .media img {
+    max-width: 450px;
   }
 }/*# sourceMappingURL=style.css.map */
